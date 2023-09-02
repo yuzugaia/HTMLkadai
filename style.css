@@ -68,23 +68,11 @@ footer {
     width: 100%;
     display: block;
   }
-  
-  .box {
-    width: 90%;
-    margin-bottom: 20px;
-    display: fle
-  }
-  
-  .box-img1 {
-    height: 150px;
-  }
-  
-  .box-img3 {
-    height: 150px;
-  }
-  
-  .box-img3 {
-    height: 150px;
-  }
-  
+
+.box {
+  width: 90%;
+  margin-left: 5%;
+  margin-bottom: 20px;
+}
+
 }
